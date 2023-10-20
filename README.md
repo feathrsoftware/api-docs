@@ -26,7 +26,7 @@ Request URL: `http://api.quillsure.com/api/v1/policy/{policy_id}`
     "id": "b8dabafc-6e42-46ce-81e7-ec8ff3cc48d1",
     "manufacturer": "Apple",
     "model_number": "A2681",
-    "serial_number": "",
+    "serial_number": null,
     "guarantee": 365,
     "purchase_price": 1099,
     "purchase_date": 1697819879,
